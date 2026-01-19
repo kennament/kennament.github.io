@@ -1,0 +1,11 @@
+fil = new Array();
+fil["0"]= "kennament.github.io/index.html@@@Greenhouse Winery@@@...";
+fil["1"]= "kennament.github.io/index_frames.html@@@Greenhouse Winery@@@...";
+fil["2"]= "kennament.github.io/opening_the_square_pos_and_cash_register.html@@@Opening the Square POS and Cash Register@@@Start drawer Register 1 with $300. Start drawer Register 2 with $200. Cash amounts depend on season, sometimes registers have more. If necessary, make change in drawers. Bill Count $20 1 $10 9 $5 15...";
+fil["3"]= "kennament.github.io/opening_the_winery.html@@@Opening the Winery Facility@@@Unlock front, side, and patio doors. Go to utility closet in front and turn on all 6 light switches. Turn all 3 sets of kitchen lights on. Check bathrooms for cleanliness and supply. Turn slushy...";
+fil["4"]= "kennament.github.io/toc.html@@@Greenhouse Winery@@@...";
+fil["5"]= "kennament.github.io/welcome.html@@@Welcome@@@This is Greenhouse Winery&apos;s work in progress knowledge base. We will use this site to collect our procedures and SOPs...";
+fil["6"]= "opening_the_square_pos_and_cash_register.html@@@Opening the Square POS and Cash Register@@@Start drawer Register 1 with $300. Start drawer Register 2 with $200. Cash amounts depend on season, sometimes registers have more. If necessary, make change in drawers. Bill Count $20 1 $10 9 $5 15...";
+fil["7"]= "opening_the_winery.html@@@Opening the Winery Facility@@@Unlock front, side, and patio doors. Go to utility closet in front and turn on all 6 light switches. Turn all 3 sets of kitchen lights on. Check bathrooms for cleanliness and supply. Turn slushy...";
+fil["8"]= "welcome.html@@@Welcome@@@This is Greenhouse Winery&apos;s work in progress knowledge base.  We will use this site to collect our procedures and SOPs...";
+var doStem = false;searchLoaded = true;
