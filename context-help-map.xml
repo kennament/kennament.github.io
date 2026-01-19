@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="welcome" path="welcome.html"/>
+   <appContext helpID="opening_the_winery" path="opening_the_winery.html"/>
+   <appContext helpID="opening_the_square_pos_and_cash_register"
+               path="opening_the_square_pos_and_cash_register.html"/>
+</map>
